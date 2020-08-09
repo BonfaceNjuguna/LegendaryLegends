@@ -1,0 +1,37 @@
+Client 'd:\bonface\DiplomaGroupProjects\Production\SP3_2020\Game Jam 1\Team 2\programming\LegendaryLegendsUnity\' unknown - use 'client' command to create it.
+
+D:/unityprojects/LegendaryLegends/ProjectSettings/AudioManager.asset - must create client 'd:\bonface\DiplomaGroupProjects\Production\SP3_2020\Game_Jam_1\Team_2\programming\LegendaryLegendsUnity\' to access local files.
+
+Slashes (/) not allowed in '//depot/DiplomaGroupProjects/Production/SP3_2020/Game Jam 1/Team 2/programming/LegendaryLegendsUnity/'.
+
+Error: Slashes (/) not allowed in '//depot/DiplomaGroupProjects/Production/SP3_2020/Game Jam 1/Team 2/programming/LegendaryLegendsUnity/'.
+
+e32:Slashes (/) not allowed in '//depot/DiplomaGroupProjects/Production/SP3_2020/Game Jam 1/Team 2/programming/LegendaryLegendsUnity/'.\n
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+Slashes (/) not allowed in '//depot/DiplomaGroupProjects/Production/SP3_2020/Game Jam 1/Team 2/programming/LegendaryLegendsUnity/'.
+
+Error: Slashes (/) not allowed in '//depot/DiplomaGroupProjects/Production/SP3_2020/Game Jam 1/Team 2/programming/LegendaryLegendsUnity/'.
+
+e32:Slashes (/) not allowed in '//depot/DiplomaGroupProjects/Production/SP3_2020/Game Jam 1/Team 2/programming/LegendaryLegendsUnity/'.\n
+Slashes (/) not allowed in 'depot/DiplomaGroupProjects/Production/SP3_2020/Game Jam 1/Team 2/programming/LegendaryLegendsUnity/'.
+
+Error: Slashes (/) not allowed in 'depot/DiplomaGroupProjects/Production/SP3_2020/Game Jam 1/Team 2/programming/LegendaryLegendsUnity/'.
+
+e32:Slashes (/) not allowed in 'depot/DiplomaGroupProjects/Production/SP3_2020/Game Jam 1/Team 2/programming/LegendaryLegendsUnity/'.\n
+Slashes (/) not allowed in '//depot/DiplomaGroupProjects/Production/SP3_2020/Game Jam 1/Team 2/programming/LegendaryLegendsUnity'.
+
+Error: Slashes (/) not allowed in '//depot/DiplomaGroupProjects/Production/SP3_2020/Game Jam 1/Team 2/programming/LegendaryLegendsUnity'.
+
+e32:Slashes (/) not allowed in '//depot/DiplomaGroupProjects/Production/SP3_2020/Game Jam 1/Team 2/programming/LegendaryLegendsUnity'.\n
+Slashes (/) not allowed in 'depot/DiplomaGroupProjects/Production/SP3_2020/Game Jam 1/Team 2/programming/LegendaryLegendsUnity'.
+
+Error: Slashes (/) not allowed in 'depot/DiplomaGroupProjects/Production/SP3_2020/Game Jam 1/Team 2/programming/LegendaryLegendsUnity'.
+
+e32:Slashes (/) not allowed in 'depot/DiplomaGroupProjects/Production/SP3_2020/Game Jam 1/Team 2/programming/LegendaryLegendsUnity'.\n
+Client 'LegendaryLegendsUnity' unknown - use 'client' command to create it.
+
+D:/unityprojects/LegendaryLegends/ProjectSettings/AudioManager.asset - must create client 'LegendaryLegendsUnity' to access local files.
+
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
