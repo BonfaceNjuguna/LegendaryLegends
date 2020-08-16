@@ -64,7 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Ship.cs" />
-    <Compile Include="Assets\Scripts\bulletshooter.cs" />
+    <Compile Include="Assets\Scripts\bullet.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Unity.Timeline.Editor">
