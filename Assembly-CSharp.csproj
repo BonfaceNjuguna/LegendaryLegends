@@ -64,7 +64,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Ship.cs" />
+    <Compile Include="Assets\Scripts\boundary_x_axis.cs" />
+    <Compile Include="Assets\Scripts\boundary_y_axis.cs" />
     <Compile Include="Assets\Scripts\bullet.cs" />
+    <Compile Include="Assets\Scripts\cameramovement.cs" />
+    <Compile Include="Assets\Scripts\collision.cs" />
+    <Compile Include="Assets\Scripts\shootbullet.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Unity.Timeline.Editor">
